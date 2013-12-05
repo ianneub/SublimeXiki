@@ -46,6 +46,12 @@
 			<key>name</key>
 			<string>comment.operator.path.escape</string>
 		</dict>
+		<dict>
+			<key>match</key>
+			<string>^#.*</string>
+			<key>name</key>
+			<string>comment</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>xiki</string>
